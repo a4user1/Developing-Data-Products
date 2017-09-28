@@ -28,7 +28,7 @@ You can sort the table according to the variable you want by clicking the arrows
 
 ## Github repository
 
-Source code for ui.R and server.R files are available on the GitHub repo: https://github.com/a4user1/Developing-Data-Products/upload/master
+Source code for ui.R and server.R files are available on the GitHub repo: https://github.com/a4user1/Developing-Data-Products
   
   
 Thank you, and enjoy using this service.  
